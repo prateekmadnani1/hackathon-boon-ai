@@ -1,0 +1,210 @@
+[
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Kirsch Transportation Services, Inc.",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment Unknown",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Sharp Transportation Inc",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Kirsch Transportation Services, Inc.",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Amber Thalman",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Brady Miller",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Fernley Railing Warehouse",
+      "type": "location",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Boise Cascade Building Materials Distrib",
+      "type": "location",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment 1289969",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Kirsch",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Amber Thalman",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Jason",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment Unknown",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  }
+]

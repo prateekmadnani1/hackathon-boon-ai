@@ -1,0 +1,226 @@
+[
+  {
+    "id": null,
+    "name": "Logistic Group of America",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "logistics",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "640 Bailey Road, Suite 217",
+      "city": "Pittsburg",
+      "state": "CA",
+      "postal_code": "94565",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "CHRIS@LGOA.NET",
+      "phone": "925-399-0634",
+      "website": null
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Sharp Transportation Inc",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "transportation",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": null,
+      "city": null,
+      "state": null,
+      "postal_code": null,
+      "country": null
+    },
+    "contact": {
+      "email": null,
+      "phone": "8002582074",
+      "website": null
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Western Recycling (New)",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "recycling",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "3909 North 15th East",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "postal_code": "83401",
+      "country": "USA"
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "website": null
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Waste Management",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "waste management",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "3405 Harvey Milk Blvd",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "postal_code": "84104",
+      "country": "USA"
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "website": null
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Chris J",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": "Dispatcher",
+    "organization": "Logistic Group of America",
+    "contact": {
+      "email": "CHRIS@LGOA.NET",
+      "phone": "925-399-0634",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "Trevor",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": null,
+    "organization": "Logistic Group of America",
+    "contact": {
+      "email": "trevor@lgoa.net",
+      "phone": "925-444-7071",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "Western Recycling (New)",
+    "type": "location",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "address": {
+      "full_address": null,
+      "street": "3909 North 15th East",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "postal_code": "83401",
+      "country": null
+    },
+    "contact": null,
+    "location_type": "origin"
+  },
+  {
+    "id": null,
+    "name": "Waste Management",
+    "type": "location",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "address": {
+      "full_address": null,
+      "street": "3405 Harvey Milk Blvd",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "postal_code": "84104",
+      "country": null
+    },
+    "contact": null,
+    "location_type": "destination"
+  },
+  {
+    "id": null,
+    "name": "Shipment 79575",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "79575",
+      "bol_number": null,
+      "tracking_number": null,
+      "pro_number": null,
+      "load_number": "18025",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "01/30/2025",
+      "delivery": "01/31/2025",
+      "created": "01/28/2025",
+      "estimated_delivery": null
+    },
+    "origin": "Western Recycling (New)",
+    "destination": "Waste Management",
+    "carrier": null,
+    "shipper": null,
+    "consignee": "Waste Management",
+    "cargo": {
+      "description": "Load of papers (Floor Loaded)",
+      "quantity": "1",
+      "weight": "44000 lbs",
+      "dimensions": null,
+      "hazardous": false,
+      "special_instructions": "Driver will be responsible for securing and maximizing the load"
+    },
+    "financial": {
+      "total_charges": "$400.00 USD",
+      "line_haul": "$400.00",
+      "fuel_surcharge": null,
+      "additional_charges": {},
+      "payment_terms": null,
+      "currency": "USD"
+    },
+    "status": "Open",
+    "document_type": "Rate & Load Confirmation"
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "entities": [
+    {
+      "id": "comp001",
+      "name": "Bennett Truck Transport, LLC",
+      "type": "company",
+      "industry": "trucking",
+      "aliases": ["Bennett", "BTT"],
+      "address": {
+        "street": "PO Box 569",
+        "city": "McDonough",
+        "state": "GA",
+        "postal_code": "30253"
+      },
+      "contact": {
+        "phone": "770-957-1866",
+        "fax": "877-251-8541"
+      }
+    },
+    {
+      "id": "comp002",
+      "name": "Road Masters Transportation",
+      "type": "company",
+      "industry": "logistics",
+      "aliases": ["Road Masters", "RM Transport"],
+      "address": {
+        "city": "McDonough",
+        "state": "GA"
+      }
+    },
+    {
+      "id": "comp003",
+      "name": "Bennett International Logistics, LLC",
+      "type": "company",
+      "industry": "logistics",
+      "parent_company": "comp001",
+      "aliases": ["BIL", "Bennett International"],
+      "address": {
+        "city": "McDonough",
+        "state": "GA",
+        "postal_code": "30253"
+      },
+      "contact": {
+        "phone": "770-957-1866",
+        "fax": "877-251-8541"
+      }
+    },
+    {
+      "id": "comp004",
+      "name": "Steve Trucking Company",
+      "type": "company",
+      "industry": "trucking",
+      "aliases": ["STC"],
+      "address": {
+        "street": "PO Box 915654",
+        "city": "Kansas City",
+        "state": "MO",
+        "postal_code": "64111"
+      },
+      "contact": {
+        "phone": "888-564-6546"
+      }
+    },
+    {
+      "id": "comp005",
+      "name": "GT Express Incorporated",
+      "type": "company", 
+      "industry": "trucking",
+      "aliases": ["GT Express", "GTE"],
+      "contact": {
+        "phone": "877-377-2720"
+      }
+    },
+    {
+      "id": "comp006",
+      "name": "Linbis Logistics Software",
+      "type": "company",
+      "industry": "technology",
+      "aliases": ["Linbis", "LLS"],
+      "address": {
+        "street": "5406 NW 72 AVE",
+        "city": "Miami",
+        "state": "FL",
+        "postal_code": "33166"
+      },
+      "contact": {
+        "phone": "305-513-8555",
+        "fax": "305-513-8555",
+        "email": "info@linbis.com",
+        "website": "www.linbis.com"
+      }
+    }
+  ],
+  "name_changes": [
+    {
+      "previous_name": "Steve's Trucking",
+      "current_name": "Steve Trucking Company",
+      "entity_id": "comp004",
+      "change_date": "2020-01-15",
+      "change_reason": "rebranding"
+    },
+    {
+      "previous_name": "GT XPRESS INC",
+      "current_name": "GT Express Incorporated",
+      "entity_id": "comp005",
+      "change_date": "2018-06-30",
+      "change_reason": "acquisition"
+    },
+    {
+      "previous_name": "Bennett Logistics International",
+      "current_name": "Bennett International Logistics, LLC",
+      "entity_id": "comp003",
+      "change_date": "2017-11-01",
+      "change_reason": "restructuring"
+    }
+  ]
+}

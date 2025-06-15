@@ -1,0 +1,593 @@
+[
+  {
+    "id": null,
+    "name": "Nolan Transportation Group",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "transportation",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "Not provided",
+      "city": "Not provided",
+      "state": "Not provided",
+      "postal_code": "Not provided",
+      "country": "Not provided"
+    },
+    "contact": {
+      "email": "BRANDYN.CUMMINGS@NTGFRGHT.COM",
+      "phone": "(616) 465-4051",
+      "website": "Not provided"
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "SHARP TRANSPORTATION, INC.",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "transportation",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "Not provided",
+      "city": "Not provided",
+      "state": "Not provided",
+      "postal_code": "Not provided",
+      "country": "Not provided"
+    },
+    "contact": {
+      "email": "amber@sharptransport.com",
+      "phone": "(435) 245-6053",
+      "website": "Not provided"
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Brandyn Cummings",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": "Account Manager",
+    "organization": "Nolan Transportation Group",
+    "contact": {
+      "email": "BRANDYN.CUMMINGS@NTGFRGHT.COM",
+      "phone": "(616) 465-4051",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "Amber Thalman",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": "Dispatcher",
+    "organization": "SHARP TRANSPORTATION, INC.",
+    "contact": {
+      "email": "amber@sharptransport.com",
+      "phone": "(435) 245-6053",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "Abraham",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": "Driver",
+    "organization": "SHARP TRANSPORTATION, INC.",
+    "contact": {
+      "email": "Not provided",
+      "phone": "(385) 965-8474",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "SAN LEANDRO CA PRODUCTION",
+    "type": "location",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "address": {
+      "full_address": null,
+      "street": "14655 Wicks Boulevard",
+      "city": "San Leandro",
+      "state": "CA",
+      "postal_code": "94577",
+      "country": null
+    },
+    "contact": null,
+    "location_type": "origin"
+  },
+  {
+    "id": null,
+    "name": "SANTA MARIA CA SALES",
+    "type": "location",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "address": {
+      "full_address": null,
+      "street": "1000 Fairway Dr",
+      "city": "Santa Maria",
+      "state": "CA",
+      "postal_code": "93455-1512",
+      "country": null
+    },
+    "contact": null,
+    "location_type": "destination"
+  },
+  {
+    "id": null,
+    "name": "Shipment Not provided",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "8226477",
+      "bol_number": "Not provided",
+      "tracking_number": "4307832041",
+      "pro_number": "Not provided",
+      "load_number": "Not provided",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "01/12/25",
+      "delivery": "01/13/25",
+      "created": "Not provided",
+      "estimated_delivery": "Not provided"
+    },
+    "origin": "SAN LEANDRO CA PRODUCTION",
+    "destination": "SANTA MARIA CA SALES",
+    "carrier": "SHARP TRANSPORTATION, INC.",
+    "shipper": null,
+    "consignee": null,
+    "cargo": {
+      "description": "Beverages",
+      "quantity": "1951",
+      "weight": "44000 lbs",
+      "dimensions": "Not provided",
+      "hazardous": false,
+      "special_instructions": "Drivers must ensure freight is secured before leaving shipper."
+    },
+    "financial": {
+      "total_charges": "$700.00",
+      "line_haul": "$700.00",
+      "fuel_surcharge": "Not provided",
+      "additional_charges": {
+        "Late Fee Pickup Policy": "$100.00"
+      },
+      "payment_terms": "Not provided",
+      "currency": "USD"
+    },
+    "status": "Not provided",
+    "document_type": "Rate Confirmation"
+  },
+  {
+    "id": null,
+    "name": "NTG Freight",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "logistics",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "244 Perimeter Center Pkwy NE Fourth Floor",
+      "city": "Atlanta",
+      "state": "GA",
+      "postal_code": "30346",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "POD@NTGFREIGHT.COM",
+      "phone": "678-569-1059",
+      "website": "http://www.NTGFreight.com/Carriers"
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "not provided",
+    "type": "location",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "address": {
+      "full_address": null,
+      "street": "not provided",
+      "city": "not provided",
+      "state": "not provided",
+      "postal_code": "not provided",
+      "country": null
+    },
+    "contact": null,
+    "location_type": "origin"
+  },
+  {
+    "id": null,
+    "name": "not provided",
+    "type": "location",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "address": {
+      "full_address": null,
+      "street": "not provided",
+      "city": "not provided",
+      "state": "not provided",
+      "postal_code": "not provided",
+      "country": null
+    },
+    "contact": null,
+    "location_type": "destination"
+  },
+  {
+    "id": null,
+    "name": "Shipment not provided",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "8226477",
+      "bol_number": "not provided",
+      "tracking_number": "not provided",
+      "pro_number": "not provided",
+      "load_number": "not provided",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "not provided",
+      "delivery": "not provided",
+      "created": "not provided",
+      "estimated_delivery": "not provided"
+    },
+    "origin": "not provided",
+    "destination": "not provided",
+    "carrier": null,
+    "shipper": null,
+    "consignee": null,
+    "cargo": {
+      "description": "not provided",
+      "quantity": "not provided",
+      "weight": "not provided",
+      "dimensions": "not provided",
+      "hazardous": false,
+      "special_instructions": "not provided"
+    },
+    "financial": {
+      "total_charges": "not provided",
+      "line_haul": "not provided",
+      "fuel_surcharge": "not provided",
+      "additional_charges": {},
+      "payment_terms": "Net-1 & Net-2 day terms",
+      "currency": "not provided"
+    },
+    "status": "not provided",
+    "document_type": "not provided"
+  },
+  {
+    "id": null,
+    "name": "Nolan Transportation Group",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "transportation",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "1735 Founders Parkway Suite 300",
+      "city": "Alpharetta",
+      "state": "GA",
+      "postal_code": "30009",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "POD@NTGFREIGHT.COM",
+      "phone": "(678) 942-9666",
+      "website": "http://www.NTGFREIGHT.com/Carriers"
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Shipment 8226477",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "8226477",
+      "bol_number": null,
+      "tracking_number": null,
+      "pro_number": null,
+      "load_number": null,
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": null,
+      "delivery": null,
+      "created": null,
+      "estimated_delivery": null
+    },
+    "origin": null,
+    "destination": null,
+    "carrier": null,
+    "shipper": null,
+    "consignee": null,
+    "cargo": {
+      "description": "perishable",
+      "quantity": null,
+      "weight": null,
+      "dimensions": null,
+      "hazardous": false,
+      "special_instructions": "Driver must maintain reefer at temperature per bill of lading."
+    },
+    "financial": {
+      "total_charges": null,
+      "line_haul": null,
+      "fuel_surcharge": null,
+      "additional_charges": {},
+      "payment_terms": "Net 1 & Net 2 day terms",
+      "currency": "USD"
+    },
+    "status": null,
+    "document_type": "carrier confirmation"
+  },
+  {
+    "id": null,
+    "name": "Beon Carrier",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "logistics",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal_code": "",
+      "country": ""
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": ""
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Shipment Unknown",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "",
+      "bol_number": "",
+      "tracking_number": "",
+      "pro_number": "",
+      "load_number": "",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "",
+      "delivery": "",
+      "created": "",
+      "estimated_delivery": ""
+    },
+    "origin": null,
+    "destination": null,
+    "carrier": null,
+    "shipper": null,
+    "consignee": null,
+    "cargo": {
+      "description": "",
+      "quantity": "",
+      "weight": "",
+      "dimensions": "",
+      "hazardous": false,
+      "special_instructions": ""
+    },
+    "financial": {
+      "total_charges": "",
+      "line_haul": "",
+      "fuel_surcharge": "",
+      "additional_charges": {},
+      "payment_terms": "",
+      "currency": ""
+    },
+    "status": "",
+    "document_type": ""
+  },
+  {
+    "id": null,
+    "name": "NTG",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "logistics",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal_code": "",
+      "country": ""
+    },
+    "contact": {
+      "email": "reyes@ntgfreight.com",
+      "phone": "",
+      "website": ""
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Shipment Unknown",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "",
+      "bol_number": "",
+      "tracking_number": "",
+      "pro_number": "",
+      "load_number": "",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "",
+      "delivery": "",
+      "created": "",
+      "estimated_delivery": ""
+    },
+    "origin": null,
+    "destination": null,
+    "carrier": null,
+    "shipper": null,
+    "consignee": null,
+    "cargo": {
+      "description": "",
+      "quantity": "",
+      "weight": "",
+      "dimensions": "",
+      "hazardous": false,
+      "special_instructions": ""
+    },
+    "financial": {
+      "total_charges": "",
+      "line_haul": "",
+      "fuel_surcharge": "",
+      "additional_charges": {},
+      "payment_terms": "",
+      "currency": ""
+    },
+    "status": "",
+    "document_type": "checklist"
+  },
+  {
+    "id": null,
+    "name": "Carrier",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "transportation",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal_code": "",
+      "country": ""
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": ""
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Shipment Unknown",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "",
+      "bol_number": "",
+      "tracking_number": "",
+      "pro_number": "",
+      "load_number": "",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "",
+      "delivery": "",
+      "created": "",
+      "estimated_delivery": ""
+    },
+    "origin": null,
+    "destination": null,
+    "carrier": "Carrier",
+    "shipper": null,
+    "consignee": null,
+    "cargo": {
+      "description": "",
+      "quantity": "",
+      "weight": "",
+      "dimensions": "",
+      "hazardous": false,
+      "special_instructions": ""
+    },
+    "financial": {
+      "total_charges": "",
+      "line_haul": "",
+      "fuel_surcharge": "",
+      "additional_charges": {},
+      "payment_terms": "",
+      "currency": ""
+    },
+    "status": "",
+    "document_type": ""
+  }
+]

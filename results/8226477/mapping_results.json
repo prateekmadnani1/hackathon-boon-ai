@@ -1,0 +1,322 @@
+[
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Nolan Transportation Group",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "SHARP TRANSPORTATION, INC.",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Brandyn Cummings",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Amber Thalman",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Abraham",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "SAN LEANDRO CA PRODUCTION",
+      "type": "location",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "SANTA MARIA CA SALES",
+      "type": "location",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment Not provided",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "NTG Freight",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "not provided",
+      "type": "location",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "not provided",
+      "type": "location",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment not provided",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Nolan Transportation Group",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment 8226477",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Beon Carrier",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment Unknown",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "NTG",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment Unknown",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Carrier",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment Unknown",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  }
+]

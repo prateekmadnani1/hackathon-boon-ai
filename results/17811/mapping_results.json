@@ -1,0 +1,146 @@
+[
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Logistic Group of America",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "SHARP TRANSPORTATION INC",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Western Recycling (New)",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Waste Management",
+      "type": "company",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Garry S",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Trevor",
+      "type": "person",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Western Recycling (New)",
+      "type": "location",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Waste Management",
+      "type": "location",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  },
+  {
+    "original_entity": {
+      "id": null,
+      "name": "Shipment 79541",
+      "type": "shipment",
+      "aliases": [],
+      "description": null,
+      "attributes": {},
+      "confidence": 1.0
+    },
+    "mapped_entity_id": null,
+    "mapped_entity_name": null,
+    "confidence": 0.0,
+    "name_change_detected": false,
+    "name_change": null
+  }
+]

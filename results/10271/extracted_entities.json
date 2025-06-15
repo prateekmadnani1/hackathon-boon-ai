@@ -1,0 +1,350 @@
+[
+  {
+    "id": null,
+    "name": "Kirsch Transportation Services, Inc.",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "transportation",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "1102 Douglas St.",
+      "city": "Omaha",
+      "state": "NE",
+      "postal_code": "68102",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "invoice@kirschtrans.com",
+      "phone": "(877) 341-9611",
+      "website": "www.kirschtrans.com"
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Shipment Unknown",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "",
+      "bol_number": "",
+      "tracking_number": "",
+      "pro_number": "",
+      "load_number": "",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "",
+      "delivery": "",
+      "created": "",
+      "estimated_delivery": ""
+    },
+    "origin": null,
+    "destination": null,
+    "carrier": "Kirsch Transportation Services, Inc.",
+    "shipper": null,
+    "consignee": null,
+    "cargo": {
+      "description": "",
+      "quantity": "",
+      "weight": "",
+      "dimensions": "",
+      "hazardous": false,
+      "special_instructions": ""
+    },
+    "financial": {
+      "total_charges": "",
+      "line_haul": "",
+      "fuel_surcharge": "",
+      "additional_charges": {},
+      "payment_terms": "normal 30-day payment terms",
+      "currency": ""
+    },
+    "status": "",
+    "document_type": "Rate Confirmation"
+  },
+  {
+    "id": null,
+    "name": "Sharp Transportation Inc",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "transportation",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "WELLSVILLE UT",
+      "city": "WELLSVILLE",
+      "state": "UT",
+      "postal_code": "84339",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "",
+      "phone": "435-245-6053",
+      "website": ""
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Kirsch Transportation Services, Inc.",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "transportation",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "1102 Douglas St",
+      "city": "Omaha",
+      "state": "NE",
+      "postal_code": "68102",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "",
+      "phone": "833-465-1531",
+      "website": ""
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Amber Thalman",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": "Contact",
+    "organization": "Sharp Transportation Inc",
+    "contact": {
+      "email": "",
+      "phone": "435-245-6053",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "Brady Miller",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": "Kirsch Representative",
+    "organization": "Kirsch Transportation Services, Inc.",
+    "contact": {
+      "email": "",
+      "phone": "833-465-1531",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "Fernley Railing Warehouse",
+    "type": "location",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "address": {
+      "full_address": null,
+      "street": "2275 E Newlands Dr",
+      "city": "Fernley",
+      "state": "NV",
+      "postal_code": "89408",
+      "country": null
+    },
+    "contact": null,
+    "location_type": "origin"
+  },
+  {
+    "id": null,
+    "name": "Boise Cascade Building Materials Distrib",
+    "type": "location",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "address": {
+      "full_address": null,
+      "street": "1020 W 3265 S",
+      "city": "South Salt Lake",
+      "state": "UT",
+      "postal_code": "84119",
+      "country": null
+    },
+    "contact": null,
+    "location_type": "destination"
+  },
+  {
+    "id": null,
+    "name": "Shipment 1289969",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "0567696",
+      "bol_number": "1289969",
+      "tracking_number": "",
+      "pro_number": "",
+      "load_number": "",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "01/28/2025 1100",
+      "delivery": "01/29/2025 0800",
+      "created": "01/27/2025",
+      "estimated_delivery": "01/29/2025 1500"
+    },
+    "origin": "Fernley Railing Warehouse",
+    "destination": "Boise Cascade Building Materials Distrib",
+    "carrier": null,
+    "shipper": null,
+    "consignee": null,
+    "cargo": {
+      "description": "Freight of all kinds",
+      "quantity": "1",
+      "weight": "43000.0 lbs",
+      "dimensions": "",
+      "hazardous": false,
+      "special_instructions": ""
+    },
+    "financial": {
+      "total_charges": "$1,175.00",
+      "line_haul": "$1,175.00",
+      "fuel_surcharge": "",
+      "additional_charges": {},
+      "payment_terms": "",
+      "currency": "USD"
+    },
+    "status": "",
+    "document_type": "Order Confirmation"
+  },
+  {
+    "id": null,
+    "name": "Kirsch",
+    "type": "company",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "industry": "logistics",
+    "founding_date": null,
+    "address": {
+      "full_address": null,
+      "street": "707 Fernley Rail Yard Warehouse",
+      "city": "Fernley",
+      "state": "NV",
+      "postal_code": "",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "",
+      "phone": "801-603-0803",
+      "website": ""
+    },
+    "name_changes": [],
+    "parent_company": null,
+    "subsidiaries": []
+  },
+  {
+    "id": null,
+    "name": "Amber Thalman",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": "",
+    "organization": "Kirsch",
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "Jason",
+    "type": "person",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "title": "",
+    "organization": "",
+    "contact": {
+      "email": "",
+      "phone": "801-603-0803",
+      "website": null
+    }
+  },
+  {
+    "id": null,
+    "name": "Shipment Unknown",
+    "type": "shipment",
+    "aliases": [],
+    "description": null,
+    "attributes": {},
+    "confidence": 1.0,
+    "reference_numbers": {
+      "order_number": "",
+      "bol_number": "",
+      "tracking_number": "",
+      "pro_number": "",
+      "load_number": "",
+      "carrier_reference": null
+    },
+    "dates": {
+      "pickup": "",
+      "delivery": "",
+      "created": "",
+      "estimated_delivery": ""
+    },
+    "origin": null,
+    "destination": null,
+    "carrier": null,
+    "shipper": "Kirsch",
+    "consignee": null,
+    "cargo": {
+      "description": "",
+      "quantity": "",
+      "weight": "",
+      "dimensions": "",
+      "hazardous": false,
+      "special_instructions": ""
+    },
+    "financial": {
+      "total_charges": "",
+      "line_haul": "",
+      "fuel_surcharge": "",
+      "additional_charges": {},
+      "payment_terms": "",
+      "currency": ""
+    },
+    "status": "",
+    "document_type": "rate confirmation"
+  }
+]

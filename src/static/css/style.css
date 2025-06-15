@@ -1,0 +1,174 @@
+/* Remove any presence of blue and ensure green/white theme throughout */
+
+body {
+    background-color: #e9fbe9; /* Very light green */
+    color: #0b3d0b;
+    padding-bottom: 2rem;
+}
+
+.card {
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background-color: #fff;
+    color: #0b3d0b;
+    box-shadow: 0 2px 8px rgba(11, 61, 11, 0.08);
+}
+
+.card-header {
+    border-bottom: none;
+    background-color: #145214; /* Slightly lighter dark green */
+    color: #fff;
+}
+
+.json-display {
+    background-color: #e9fbe9; /* Very light green */
+    color: #0b3d0b;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    max-height: 400px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    font-family: monospace;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Styling for entity types */
+.entity-company {
+    color: #145214;
+    font-weight: bold;
+}
+
+.entity-person {
+    color: #198754;
+    font-weight: bold;
+}
+
+.entity-location {
+    color: #1e5631;
+    font-weight: bold;
+}
+
+.entity-shipment {
+    color: #28a745;
+    font-weight: bold;
+}
+
+/* Styling for mapping results */
+.mapping-success {
+    color: #198754;
+}
+
+.mapping-failure {
+    color: #dc3545;
+}
+
+.name-change {
+    color: #1e5631;
+    font-weight: bold;
+}
+
+/* File upload styling */
+.custom-file-input::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+.custom-file-input::before {
+    content: 'Select file';
+    display: inline-block;
+    background: linear-gradient(top, #e9fbe9, #c7eac7);
+    border: 1px solid #145214;
+    border-radius: 3px;
+    padding: 5px 8px;
+    outline: none;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 10pt;
+    color: #0b3d0b;
+}
+
+.custom-file-input:hover::before {
+    border-color: #0b3d0b;
+}
+
+.custom-file-input:active::before {
+    background: -webkit-linear-gradient(top, #c7eac7, #e9fbe9);
+}
+
+/* Progress indication */
+.progress {
+    height: 5px;
+    margin-top: 10px;
+    background-color: #c7eac7;
+}
+
+.progress-bar {
+    background-color: #145214;
+}
+
+/* Make file upload box/button green themed */
+input[type="file"].form-control, 
+input[type="file"].form-control:focus {
+    border: 2px solid #198754 !important;      /* Bootstrap green */
+    background-color: #e9fbe9 !important;      /* Very light green */
+    color: #145214 !important;                 /* Dark green text */
+    box-shadow: none !important;
+}
+
+input[type="file"].form-control::file-selector-button {
+    background-color: #198754;                 /* Bootstrap green */
+    color: #fff;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.5em 1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+input[type="file"].form-control::file-selector-button:hover {
+    background-color: #145214;                 /* Even darker green */
+    color: #fff;
+}
+
+.card-title {
+    background-color: #198754 !important; /* Bootstrap green background */
+    color: #fff !important;               /* White text */
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    display: inline-block;
+}
+
+/* Make card header (including Upload Document) green */
+.card-header {
+    background-color: #198754 !important; /* Bootstrap green */
+    color: #fff !important;
+    border-bottom: none;
+}
+
+/* Optional: Remove .card-title background if you want only the header to be green */
+.card-title {
+    background-color: transparent !important;
+    color: #fff !important;
+    padding: 0;
+    border-radius: 0;
+    display: inline-block;
+}
+
+#submit-btn,
+.btn-primary {
+    background-color: #198754 !important; /* Bootstrap green */
+    border-color: #198754 !important;
+    color: #fff !important;
+}
+
+#submit-btn:hover,
+.btn-primary:hover,
+#submit-btn:focus,
+.btn-primary:focus {
+    background-color: #145214 !important; /* Even darker green */
+    border-color: #145214 !important;
+    color: #fff !important;
+}
